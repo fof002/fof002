@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**fof002/fof002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+frithjof.falck@hotmail.com
 
-Here are some ideas to get you started:
+## About me
+I'm a student at Noroff starting my second year of the Frontend development course. I'm hopefully finishing off my studies in december 2023.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a full time job in a government agency while studying. 
+
+## What I'm learning
+
+- Design
+- UX
+- HTML
+- CSS
+- Javascript
+- CSS frameworks
+- Javascript frameworks
+- CMS
